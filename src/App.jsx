@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "./sections/Hero";
-import "./app.css";
+import "./App.css";
 import Projects from "./sections/Projects";
 import Tech from "./sections/Tech";
 import Certificates from "./sections/Certificates";
