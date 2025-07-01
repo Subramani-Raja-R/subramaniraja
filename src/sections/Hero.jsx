@@ -60,7 +60,13 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/sraja04">
               <FaLinkedinIn className="link-btn" />
             </a>
-            <a href="https://sraja172004@gmail.com ">
+            <a onClick={() => {
+                window.open(
+                  "https://mail.google.com/mail/?view=cm&to=sraja172004@gmail.com",
+                  "gmailCompose",
+                  "width=800,height=600"
+                );
+              }}>
               <SiGmail className="link-btn" />
             </a>
             <a href="https://github.com/Subramani-Raja-R">
