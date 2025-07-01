@@ -36,7 +36,7 @@ const Hero = () => {
     <>
       <div className="container" id="top">
         <video id="back-vid" muted autoPlay loop playsInline src={bgvd}></video>
-        <div className="cover"></div>
+{/*         <div className="cover"></div> */}
 
         {/* <section id="top"> */}
 
