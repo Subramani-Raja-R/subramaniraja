@@ -89,7 +89,7 @@ const Hero = () => {
               </h1>
               <p data-aos="fade-right" data-aos-duration="1000">
                 I am a passionate and dedicated web developer currently in my
-                third year of college, aiming to secure a placement by next
+                final year of college, aiming to secure a placement by next
                 year. With a strong foundation in HTML, CSS, JavaScript, and Ui
                 designing, I am actively learning other modern web technologies
                 to enhance my skills. I have worked on multiple projects
@@ -118,13 +118,13 @@ const Hero = () => {
                 {/* <CgMoreVertical /> */}
                 <div className="edu">
                   <h3>HSC</h3>
-                  <p>Raja Metric Hr Sec School</p>
+                  <p>Raja Matric Hr Sec School</p>
                   <p>2022</p>
                 </div>
                 {/* <CgMoreVertical /> */}
                 <div className="edu">
                   <h3>SSLC</h3>
-                  <p>CEOA Metric High School</p>
+                  <p>CEOA Matric High School</p>
                   <p>2020</p>
                 </div>
               </div>
