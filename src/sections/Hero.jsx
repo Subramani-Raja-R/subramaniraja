@@ -8,7 +8,7 @@ import { RiScrollToBottomLine } from "react-icons/ri";
 import { SiGmail } from "react-icons/si";
 import { CgMoreVertical } from "react-icons/cg";
 import { ImCancelCircle } from "react-icons/im";
-import resume from "../953622104104-SUBRAMANI RAJA R.pdf";
+import resume from "../SUBRAMANI RAJA R-RESUME-PR.pdf";
 
 const Hero = () => {
   const [toggle, setToggle] = useState(false);
@@ -138,3 +138,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
