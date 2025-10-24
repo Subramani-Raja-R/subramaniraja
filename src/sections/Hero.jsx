@@ -42,7 +42,7 @@ const Hero = () => {
 
         <nav data-aos="fade-down" data-aos-duration="1000">
           <img id="logo" src={navlogo ? logomain : logo} alt="S" />
-          <a href={resume} download="SR | RESUME">
+          <a href={resume} target="_blank" rel="noopener noreferrer">
             <button id="nav-resume">Resume</button>
           </a>
         </nav>
@@ -138,4 +138,5 @@ const Hero = () => {
 };
 
 export default Hero;
+
 
